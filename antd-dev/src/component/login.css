@@ -1,0 +1,27 @@
+
+.body{
+    background-color: #f8f8f8;
+}
+.Content .login-form {
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 30%;
+    padding: 20px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 100px rgba(0,0,0,0.08);
+    color: #fff;
+}
+
+.Content .login-form {
+    max-width: 300px;
+}
+
+.Content .login-form-forgot {
+    float: right;
+}
+
+.Content .login-form-button {
+    width: 100%;
+}
